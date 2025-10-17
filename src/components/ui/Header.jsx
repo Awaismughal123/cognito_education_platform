@@ -134,7 +134,7 @@ const Header = () => {
                 <span className="text-sm font-semibold text-white">JD</span>
               </div>
               <div className="hidden md:block">
-                <p className="text-sm font-medium text-gray-900">John Doe</p>
+                <p className="text-sm font-medium text-gray-900">Muhammad Awais</p>
                 <p className="text-xs text-gray-500">Student</p>
               </div>
             </div>
